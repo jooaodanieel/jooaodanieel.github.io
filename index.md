@@ -18,7 +18,7 @@ Byron will define a Domain Specific Language (DSL) to represent the application'
 This way, Byron will make it easier to create and deploy distributed systems for complex domains. It will do this by providing an easy developer interface with an intuitive developing workflow, which will increase development speed by automating the repetition, and by default supporting a set of best technical decisions.
 
 ### Proposal
-[Online](<< link para o arquivo >>) | [Download](<< link para o raw >>)
+[Online](https://gitlab.com/byron-framework/kanban/blob/master/Byron_Proposal.pdf)
 
 ### Contact
-Send a message to leolanavo at gmail.com or << email do joão >>
+Send a message to leolanavo at gmail dot com or jotaf.daniel at gmail dot com
