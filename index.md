@@ -5,8 +5,8 @@ layout: default
 ## Byron - Cloud-Native Reactive Microservices Framework
 
 ## Informations
-- **Members**: João Franscisco Lino Daniel e Leonardo Lana Violin Oliveira
-- **Supervisor**: Prof. Dr. Alfredo Goldman e Renato Cordeiro
+- **Members**: João Franscisco Lino Daniel and Leonardo Lana Violin Oliveira
+- **Supervisor**: Prof. Dr. Alfredo Goldman, Prof. Dr. Eduardo Guerra and BsC. Renato Cordeiro
 
 ## Summary
 Building and deploying complex distributed systems is hard. There are a lot of aspects that increase the chances of failure and there are a handful of tasks that make the development process repetitive and time consuming. Automation, observability, availability and continuous delivery are some of the key concerns in order to succeed in this task.
