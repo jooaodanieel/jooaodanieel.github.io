@@ -5,7 +5,7 @@ layout: default
 ## Byron - Cloud-Native Reactive Microservices Framework
 
 ## Informations
-- **Members**: João Franscisco Lino Daniel and Leonardo Lana Violin Oliveira
+- **Members**: João Francisco Lino Daniel and Leonardo Lana Violin Oliveira
 - **Supervisor**: Prof. Dr. Alfredo Goldman, Prof. Dr. Eduardo Guerra and BsC. Renato Cordeiro
 
 ## Summary
