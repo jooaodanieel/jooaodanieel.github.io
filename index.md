@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Byron - Cloud-Native Reactive Microservices Framework
+## Byron - an Event-Driven Microservices Framework
 
 ## Informations
 - **Members**: João Francisco Lino Daniel and Leonardo Lana Violin Oliveira
