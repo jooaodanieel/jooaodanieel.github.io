@@ -6,12 +6,15 @@ layout: default
 
 ## Informations
 - **Members**:
-  - João Francisco Lino Daniel, and
-  - Leonardo Lana Violin Oliveira
+  - João Francisco Lino Daniel¹, and
+  - Leonardo Lana Violin Oliveira¹
 - **Supervisors**:
-  - Prof. Dr. Alfredo Goldman,
-  - Prof. Dr. Eduardo Guerra, and
-  - BsC. Renato Cordeiro
+  - Prof. Dr. Alfredo Goldman¹,
+  - Prof. Dr. Eduardo Guerra², and
+  - BsC. Renato Cordeiro¹
+
+> ¹ Instituto de Matemática e Estatística - Universidade de São Paulo<br>
+> ² Instituto Nacional de Pesquisas Espaciais
 
 ## Summary
 Building and deploying complex distributed systems is hard. There are a lot of aspects that increase the chances of failure and there are a handful of tasks that make the development process repetitive and time consuming. Automation, observability, availability and continuous delivery are some of the key concerns in order to succeed in this task.
@@ -28,16 +31,18 @@ This way, Byron will make it easier to create and deploy distributed systems for
 |:---------------:|:-----------:|
 | Proposal        | [Online][1] |
 | Final Monograph | [Online][2] |
-| Documentation   | [Online][3] |
-| Repository      | [Online][4] |
-| NPM             | [Online][5] |
+| Poster          | [Online][3] |
+| Documentation   | [Online][4] |
+| Repository      | [Online][5] |
+| NPM             | [Online][6] |
 | Slides          | Not available yet |
 
 [1]: https://gitlab.com/byron-framework/kanban/blob/master/Byron_Proposal.pdf
 [2]: https://gitlab.com/byron-framework/kanban/blob/master/Byron_Monograph.pdf
-[3]: https://byron.netlify.com
-[4]: https://gitlab.com/byron-framework/cli
-[5]: https://www.npmjs.com/package/@byronframework/cli
+[3]: https://gitlab.com/byron-framework/kanban/blob/master/Byron_Poster.pdf
+[4]: https://byron.netlify.com
+[5]: https://gitlab.com/byron-framework/cli
+[6]: https://www.npmjs.com/package/@byronframework/cli
 
 ### Contact
 Send a message to leolanavo at gmail dot com or jotaf.daniel at gmail dot com
