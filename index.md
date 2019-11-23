@@ -29,9 +29,9 @@ This way, Byron will make it easier to create and deploy distributed systems for
 
 | name            | asset       |
 |:---------------:|:-----------:|
-| Proposal        | [Online][1] |
-| Final Monograph | [Online][2] |
-| Poster          | [Online][3] |
+| Proposal        | [Online][1] \| [Download][11] |
+| Final Monograph | [Online][2] \| [Download][21] |
+| Poster          | [Online][3] \| [Download][31] |
 | Documentation   | [Online][4] |
 | Repository      | [Online][5] |
 | NPM             | [Online][6] |
@@ -44,5 +44,9 @@ This way, Byron will make it easier to create and deploy distributed systems for
 [5]: https://gitlab.com/byron-framework/cli
 [6]: https://www.npmjs.com/package/@byronframework/cli
 
+[11]: /assets/Byron_Proposal.pdf
+[21]: /assets/Byron_Monograph.pdf
+[31]: /assets/Byron_Poster.pdf
+
 ### Contact
-Send a message to leolanavo at gmail dot com or jotaf.daniel at gmail dot com
+Send a message to **leolanavo at gmail dot com** or **jotaf dot daniel at gmail dot com**
