@@ -35,7 +35,7 @@ This way, Byron will make it easier to create and deploy distributed systems for
 | Documentation   | [Online][4] |
 | Repository      | [Online][5] |
 | NPM             | [Online][6] |
-| Slides          | Not available yet |
+| Slides          | [Online][7] |
 
 [1]: https://gitlab.com/byron-framework/kanban/blob/master/Byron_Proposal.pdf
 [2]: https://gitlab.com/byron-framework/kanban/blob/master/Byron_Monograph.pdf
@@ -43,6 +43,7 @@ This way, Byron will make it easier to create and deploy distributed systems for
 [4]: https://byron.netlify.com
 [5]: https://gitlab.com/byron-framework/cli
 [6]: https://www.npmjs.com/package/@byronframework/cli
+[7]: https://slides.com/joaodaniel/byron-final
 
 [11]: /assets/Byron_Proposal.pdf
 [21]: /assets/Byron_Monograph.pdf
